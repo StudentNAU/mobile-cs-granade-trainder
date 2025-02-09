@@ -1,6 +1,6 @@
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import HomeScreen from './HomeScreens/HomeScreen';
-import MapSelectorScreen from './HomeScreens/MapSelectorScreen';
+import MapSelectorScreen from './MapSelector/MapSelectorScreen';
 
 const HomeStack = createNativeStackNavigator();
 
