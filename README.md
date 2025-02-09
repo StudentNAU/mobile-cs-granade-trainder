@@ -1,1 +1,0 @@
-# mobile-cs-granade-trainder

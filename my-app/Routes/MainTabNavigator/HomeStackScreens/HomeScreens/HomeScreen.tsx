@@ -4,7 +4,7 @@ const HomeScreen = ({navigation}) => {
     return (
         <View>
             <Text>
-                Home screen
+                Home screen 
             </Text>
             <Button title={'Play'} onPress={() => navigation.navigate('Map Selector')}/>
         </View>
